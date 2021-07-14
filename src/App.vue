@@ -24,7 +24,7 @@ export default {
         '/*IDEAS*/'
       ),
       app: [
-        'pinintrest',
+        'pintrest',
         'tik Tok',
         'netflix',
         'faceBook',
