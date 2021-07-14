@@ -1,4 +1,4 @@
-# idea-generator
+# App Idea Generator
 
 ## Project setup
 ```
